@@ -1,21 +1,27 @@
-<h1 align="center"> Hi there <img src="https://user-images.githubusercontent.com/33700292/101157406-eec79080-35de-11eb-9543-5c57727a309b.gif" alt="Wave Emoji"  width="54px" />, I'm **_Mohamed Sobhy_** </h1>
+<h1 align="center">
+  Hi there 
+  <img src="https://user-images.githubusercontent.com/33700292/101157406-eec79080-35de-11eb-9543-5c57727a309b.gif" alt="Wave Emoji"  width="54px" />, 
+  <br>
+  <b>I'm <b>Mohamed Sobhy<b>
+</h1>
 
 - 🔭 I’m currently working on **Elherafyeendotcom**
 - 🌱 I’m currently learning **c# && Dotnet Core && Reactjs**
 - 📫 How to reach me: (mohamedsobhy2296@gmail.com)
 - ⚡ Fun fact: I Love `JS` But Working with php all time :man_facepalming:
-- 
-<!--
-**MohamedS0bhy/MohamedS0bhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img src="https://media2.giphy.com/media/H4ETAwCJs7S9mdrFFW/giphy.gif" alt="gif" width="450" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Tools:
+
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP" width="22" height="22"/> 
+  <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" width="22" height="22"/> 
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JS" width="22" height="22"/> 
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="Reactjs" width="22" height="22"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="22" height="22"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="22" height="22"/>  
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="22" height="22"/>
+  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="express" width="48"/>
+</p>
+
