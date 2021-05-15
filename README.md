@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there 👋, I'm **_Mohamed Sobhy_**
 
+- 🔭 I’m currently working on **Elherafyeendotcom**
+- 🌱 I’m currently learning **c# && Dotnet Core && Reactjs**
+- 📫 How to reach me: (mohamedsobhy2296@gmail.com)
+- ⚡ Fun fact: I Love `JS` But Working with php all time :man_facepalming:
+- 
 <!--
 **MohamedS0bhy/MohamedS0bhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
