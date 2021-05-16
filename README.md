@@ -11,13 +11,8 @@
 - ⚡ Fun fact: I Love `JS` But Working with php all time :man_facepalming:
 
 <img src="https://media2.giphy.com/media/H4ETAwCJs7S9mdrFFW/giphy.gif" alt="gif" width="450" />
+<img src="http://drive.google.com/uc?export=view&id=1W8Hlm3od-v_qCcDbAmr4VOMgX1t8oitg" alt="gif" width="450" />
 
-<a href="https://drive.google.com/file/d/1W8Hlm3od-v_qCcDbAmr4VOMgX1t8oitg/view?usp=sharing">
-  <img src="https://drive.google.com/file/d/1W8Hlm3od-v_qCcDbAmr4VOMgX1t8oitg/view?usp=sharing" 
-       style="width: 450px; max-width: 100%; height: auto" 
-       title="Coding..."
-   />
-</a>
 
 
 ### Languages and Tools:
