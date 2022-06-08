@@ -5,10 +5,10 @@
   <b>I'm <b>Mohamed Sobhy<b>
 </h1>
 
-- 🔭 I’m currently working on **Elherafyeendotcom**
+- 🔭 I’m currently working on **Baims**
 - 🌱 I’m currently learning **c# && Dotnet Core && Reactjs**
 - 📫 How to reach me: (mohamedsobhy2296@gmail.com)
-- ⚡ Fun fact: I Love `JS` But Working with php all time :man_facepalming:
+- ⚡ Fun fact: I Love `JS` But Working with php|Laravel all time :man_facepalming:
 
 <img src="http://drive.google.com/uc?export=view&id=1W8Hlm3od-v_qCcDbAmr4VOMgX1t8oitg" alt="Coding..." width="450" />
 
